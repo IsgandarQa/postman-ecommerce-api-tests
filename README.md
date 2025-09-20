@@ -4,7 +4,7 @@ Bu layihə Postman istifadə edərək e-ticarət (fakestoreapi.com) api-yın tes
 Layihə avtorizasiyanı məhsul siyahısını və cavabların doğruluöunu yoxlayır.
 
 ##TEST EDİLƏN ƏSAS FUNKSİONALLIQLAR 
-*Avtorizasiya*-'Post/auth/login' sorğusu ilə token alınması və ovtomatik olaraq bir dəyişənə yazılması.
+*Avtorizasiya*-'Post/auth/login' sorğusu ilə token alınması və avtomatik olaraq bir dəyişənə yazılması.
 *Məhsullar*-'Get/products' sorğusu ilə bütün məhsulların siyahısının alınması və cavabların doğruluğunun (status kodu məzmununun boş olmaması) yoxlanması.
 
 ##NECƏ İSTİFADƏ EDƏ BİLƏRSİZ?
